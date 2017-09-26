@@ -62,3 +62,6 @@
   commti = commit
 [rebase]
 	instructionFormat = (%an <%ae>) %s
+[user]
+	name = Eduardo Agustin Bayot
+	email = eduardo.bayot@inamika.com

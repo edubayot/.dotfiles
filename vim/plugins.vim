@@ -83,6 +83,8 @@ Bundle 'chriskempson/base16-vim'
 " Bundle "othree/javascript-libraries-syntax.vim"
 " Bundle "vim-scripts/JavaScript-Indent"
 
+" twig syntax!
+Bundle "lumiliet/vim-twig"
 " ending vundle
 call vundle#end()            " required
 filetype plugin indent on    " required
