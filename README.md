@@ -48,3 +48,7 @@ Here you will find (among other configs):
 ### Ctags
 
 - Use patched ctags. See this [link](https://github.com/shawncplus/phpcomplete.vim/wiki/Patched-ctags)
+
+### On Fedora 26
+Don't forget to install php-cli, php-domxml-php4-php5 and python-devel.
+Also, comment the flags definition on installer/vim_ctrlp_cmatcher.sh 

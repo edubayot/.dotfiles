@@ -136,8 +136,8 @@ autocmd BufRead,BufNewFile *.txt setlocal spell spelllang=en_us,pt_br,de_de
 "===============================================================================
 " color lucius
 
-let base16colorspace=256
-color base16-tomorrow-night
+"let base16colorspace=256
+color base16-solarized-dark
 
 " highlight ajustment
 highligh MatchParen cterm=bold ctermbg=none ctermfg=green
